@@ -1,0 +1,16 @@
+{
+  "name": "rainradar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "radar-fetch-imgs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2",
+    "sharp": "^0.26.2"
+  }
+}
